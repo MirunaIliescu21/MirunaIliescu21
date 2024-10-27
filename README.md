@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a second year student at the Faculty of Automation and Computer Science<br>
+🔭 I'm a second-year student at the Faculty of Automation and Computer Science<br>
 
 
 ## 🌐 Socials:
